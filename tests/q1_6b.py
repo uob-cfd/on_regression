@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> 0 <= spread_slope < 1
+          >>> 0 <= minimized_spread_slope < 1
           True
           """,
           'hidden': False,
